@@ -88,10 +88,10 @@
     <p id="message"></p>
   </div>
 
-  <!-- ✅ JavaScript backend connection starts here -->
+  <!--Backend Connection-->
   <script>
     document.getElementById("invitationForm").addEventListener("submit", function(e) {
-      e.preventDefault(); // default form submit बंद करतो
+      e.preventDefault(); 
 
       
       const data = {
@@ -101,7 +101,7 @@
         venue: document.getElementById("venue").value
       };
 
-      // 🌐 Backend ला POST call पाठवा
+      
       fetch("http://localhost:8080/api/invitations", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -117,7 +117,7 @@
       });
     });
   </script>
-  <!-- ✅ JavaScript backend connection ends here -->
+  <!--backend connection ends-->
 
 </body>
 </html>
