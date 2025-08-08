@@ -1,18 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/fcdd7518-1c9a-4837-8dd2-7e9813f122d1)
 
 
-⚙️ Tech Stack
-Java 17
-
-Spring Boot 3.2.3
-
-Spring Web (REST APIs)
-
-Spring Data JPA
-
-PostgreSQL
-
-Postman (API testing)
 
 
 
