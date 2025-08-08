@@ -40,9 +40,9 @@ JDK 17 PostgreSQL (Running and accessible) Maven or STS/IntelliJ
 
 🛠️ Steps
 
-Clone the project git clone https://github.com/your-username/career-opportunities.git cd career-opportunities
+Clone the project git clone https://github.com/your-username/wedding--invitation.git cd wedding--invitation
 
-Configure application.properties spring.datasource.url=jdbc:postgresql://localhost:5432/career_db spring.datasource.username=your_username spring.datasource.password=your_password spring.jpa.hibernate.ddl-auto=update spring.jpa.show-sql=true
+Configure application.properties spring.datasource.url=jdbc:postgresql://localhost:5432/wedding--invitation spring.datasource.username=your_username spring.datasource.password=your_password spring.jpa.hibernate.ddl-auto=update spring.jpa.show-sql=true
 
 Run the app ./mvnw spring-boot:run
 
