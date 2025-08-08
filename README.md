@@ -1,8 +1,27 @@
-![Image](https://github.com/user-attachments/assets/fcdd7518-1c9a-4837-8dd2-7e9813f122d1)
+💌 Wedding Invitation
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A simple and elegant Spring Boot REST API + Frontend project that allows users to create and view wedding invitations online.
+The project is built using Java 17, Spring Boot, HTML, CSS, and PostgreSQL, following the MVC architecture.
 
 
 
-![Image](https://github.com/user-attachments/assets/cda9917f-c6ce-4f17-ad2d-f55b003fad26)  
+⚙️ Tech Stack
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Java 17
+
+* Spring Boot 3.2.3
+
+* Spring Web (REST APIs)
+
+* Spring Data JPA
+
+* PostgreSQL
+
+* Postman (API testing)
+
+
+
+
 
 🗂️ Project Structure
 -------------------------------------------------------------------------------------------
