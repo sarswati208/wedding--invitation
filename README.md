@@ -10,6 +10,10 @@
 ![Image](https://github.com/user-attachments/assets/1babce2a-3592-4e30-b4dc-70d59cd0ef5f)  
 
 
+Dependencies:
+
+![Image](https://github.com/user-attachments/assets/1f567f0c-a16c-43c6-bb18-8b5c883d5083)  
+
 
 Frontend Output:
 
