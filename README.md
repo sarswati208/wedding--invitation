@@ -6,6 +6,9 @@
 
 
 
+🗂️ Project Structure
+![Image](https://github.com/user-attachments/assets/1babce2a-3592-4e30-b4dc-70d59cd0ef5f)  
+
 Frontend Output:
 
 ![Image](https://github.com/user-attachments/assets/e2d0c96c-326d-4433-a810-beb5b4fbebfc)
