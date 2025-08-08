@@ -31,7 +31,24 @@ Backend Output:
 -----------------------------------------------------------------------------------------------------
 ![Backend Output](https://github.com/user-attachments/assets/5c27f904-0613-4b0f-9706-46c0d2d5239e)
 
-Contact:
+
+▶️ How to Run the Project
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+📦 Prerequisites
+
+JDK 17 PostgreSQL (Running and accessible) Maven or STS/IntelliJ
+
+🛠️ Steps
+
+Clone the project git clone https://github.com/your-username/career-opportunities.git cd career-opportunities
+
+Configure application.properties spring.datasource.url=jdbc:postgresql://localhost:5432/career_db spring.datasource.username=your_username spring.datasource.password=your_password spring.jpa.hibernate.ddl-auto=update spring.jpa.show-sql=true
+
+Run the app ./mvnw spring-boot:run
+
+
+
+📫Contact:
 ------------------------------------------------------------------------------------------------------
 Name:Sarswati Navgire
 
